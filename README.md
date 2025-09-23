@@ -51,4 +51,4 @@ I'm an **IT Support Analyst** passionate about process automation, ERP systems, 
 - 🧩 Pattern recognition enthusiast (thanks, autism!)
 
 ---
-*"Transforming complex problems into elegant solutions, one ticket at a time."*
+"Rather than love, than fame, than money, give me Truth" – Henry D. Thoreau
