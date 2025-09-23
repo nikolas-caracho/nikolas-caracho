@@ -18,16 +18,16 @@ I'm an **IT Support Analyst** passionate about process automation, ERP systems, 
 - Jira Ticket Management
 
 **Development:**
-- PHP, HTML, CSS, JavaScript
+- Java, C++, Python, PHP, JavaScript, CSS, HTML
 - MariaDB/MySQL
 - Power Automate
-- BPMS/BPMN (NextBP)
+- BPMS/BPMN Workflow automation (NextBP)
 
 **Tools & Platforms:**
-- Microsoft Office Suite
+- Microsoft Office Suite (Advanced Excel/VBA)
 - Process Automation
 - System Integration
-- SOX Compliance
+- SOX Compliance and IT Controls
 
 ## 📊 Key Achievements
 - 🎯 **70+ critical bugs** resolved in production environments
