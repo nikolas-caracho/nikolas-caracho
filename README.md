@@ -1,6 +1,6 @@
 # Hi there, I'm Nikolas! 👋
 
-## 🚀 About Me
+## ☯️ About Me
 I'm an **IT Support Analyst** passionate about process automation, ERP systems, and solving complex technical challenges. Currently working at Union Agro, where I blend technical support with business process optimization.
 
 - 🔭 **Currently working on:** ERP support, process automation with NextBP (BPMS), and SQL data analysis
