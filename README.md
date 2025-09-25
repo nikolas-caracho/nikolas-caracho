@@ -6,7 +6,7 @@ I'm an **IT Support Analyst** passionate about process automation, ERP systems, 
 - 🔭 **Currently working on:** ERP support, process automation with NextBP (BPMS), and SQL data analysis
 - 🌱 **Currently learning:** Advanced troubleshooting techniques and cloud-based ERP solutions
 - 💼 **Experience:** L1/L2 Technical Support, Business Process Management, Database Administration
-- 🎯 **Goal:** Transitioning into specialized technical support roles in energy/software industries
+- 🎯 **Goal:** Transitioning into specialized technical support international roles in energy/software industries
 - 🧠 **Neurodivergent:** Autistic with ADHD - bringing unique problem-solving perspectives to tech
 
 ## 🛠️ Tech Stack
@@ -31,7 +31,7 @@ I'm an **IT Support Analyst** passionate about process automation, ERP systems, 
 
 ## 📊 Key Achievements
 - 🎯 **70+ critical bugs** resolved in production environments
-- 📈 **30% reduction** in manual workflows through process automation
+- 📈 **66% reduction** in manual workflows through process automation
 - 👥 **250+ users** supported daily across multiple departments
 - 🚨 **Zero-downtime** critical issue resolution during audit periods
 
@@ -45,10 +45,10 @@ I'm an **IT Support Analyst** passionate about process automation, ERP systems, 
 - 📧 **Email:** [nikolasarruda762@gmail.com]
 
 ## ⚡ Fun Facts
-- 🏆 High school olympiad medalist in multiple subjects
+- 🏆 High school olympiad medalist in multiple subjects (Physics, Astronomy and History)
 - 🎓 Economics background with transition to IT
-- 🌱 Passionate about sustainable agriculture technology
-- 🧩 Pattern recognition enthusiast (thanks, autism!)
+- 🌱 Passionate and avid reader about Neuroscience, Game Theory, Business and Economics.
+- 🧩 Pattern recognition and sistemic/process thinking enthusiast (thanks, autism!)
 
 ---
 "Rather than love, than fame, than money, give me Truth" – Henry D. Thoreau
