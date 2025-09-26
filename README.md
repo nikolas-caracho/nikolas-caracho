@@ -6,7 +6,7 @@ I'm an **IT Support Analyst** passionate about process automation, ERP systems, 
 - 🔭 **Currently working on:** ERP support, process automation with NextBP (BPMS), and SQL data analysis
 - 🌱 **Currently learning:** Advanced troubleshooting techniques and cloud-based ERP solutions
 - 💼 **Experience:** L1/L2 Technical Support, Business Process Management, Database Administration
-- 🎯 **Goal:** Transitioning into specialized technical support international roles in energy/software industries
+- 🎯 **Goal:** pecialized technical support international roles.
 - 🧠 **Neurodivergent:** Autistic with ADHD - bringing unique problem-solving perspectives to tech
 
 ## 🛠️ Tech Stack
